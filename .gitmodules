@@ -1,3 +1,0 @@
-[submodule "lib/nutrition-label"]
-	path = lib/nutrition-label
-	url = git@github.com:nutritionix/nutrition-label.git
